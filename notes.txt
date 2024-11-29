@@ -13,3 +13,7 @@ git add .            = add all file to stage and track
 git rm <filename>    = complety delete file in repositary
 
 git rm --cached <filename> = only delete form commit but file is exits
+
+git reset HEAD      =  unstage file
+
+git restore         = remove changes "unstaged file only"
