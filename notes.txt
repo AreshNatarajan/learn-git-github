@@ -5,3 +5,5 @@ git status           =  get status
 git diff             = watch git difference before staged
 git diff --staged    = watch diiferevce after staged
 git add .            = add all file to stage and track
+
+nothing
