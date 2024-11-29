@@ -19,3 +19,5 @@ git reset HEAD      =  unstage file
 git restore         = remove changes "unstaged file only"
 
 git reset --hard  <commit ID , which commit before exist commit>   = delete wrong changes
+
+day 1 finished !
