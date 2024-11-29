@@ -1,8 +1,15 @@
 // LEAR GIT
 
 git add <filename>   =  track the file
+
 git status           =  get status
+
 git diff             = watch git difference before staged
+
 git diff --staged    = watch diiferevce after staged
+
 git add .            = add all file to stage and track
 
+git rm <filename>    = complety delete file in repositary
+
+git rm --cached <filename> = only delete form commit but file is exits
