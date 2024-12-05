@@ -21,3 +21,8 @@ git restore         = remove changes "unstaged file only"
 git reset --hard  <commit ID , which commit before exist commit>   = delete wrong changes
 
 day 1 finished !
+
+
+day 2
+
+how to remove all git property in project file
