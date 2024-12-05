@@ -26,3 +26,6 @@ day 1 finished !
 day 2
 
 how to remove all git property in project file
+
+rm -rf .git
+
