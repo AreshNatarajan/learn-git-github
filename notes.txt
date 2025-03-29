@@ -12,7 +12,7 @@ git add .            = add all file to stage and track
 
 git rm <filename>    = complety delete file in repositary
 
-git rm --cached <filename> = only delete form commit but file is exits
+git rm --cached <filename> = only delete from commit but file is exits
 
 git reset HEAD      =  unstage file
 
@@ -28,4 +28,6 @@ day 2
 how to remove all git property in project file
 
 rm -rf .git
+
+git restore --staged <filename>   = to unstage file 
 
